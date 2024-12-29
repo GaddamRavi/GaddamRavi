@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently working on: Deploying web and serverless applications on AWS, setting up CI/CD pipelines, and cloud infrastructure management.<br>I'm looking to collaborate on: Open-source projects that focus on DevOps, AWS, or data-driven solutions.<br>I'm looking for help with: Enhancing automation and security in cloud-based deployments.<br>I'm currently learning: Advanced AWS services, data analytics, and networking fundamentals (e.g., CCNA).
+I'm currently working on: Deploying web and serverless applications on AWS, setting up CI/CD pipelines, and cloud infrastructure management.<br>I'm looking to collaborate on: Open-source projects that focus on DevOps, AWS, or data-driven solutions.<br>I'm looking for help with: Enhancing automation and security in cloud-based deployments.<br>I'm currently learning: Advanced AWS services, data analytics, and networking fundamentals .
 
 
 ## 🌐 Socials:
